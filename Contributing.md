@@ -1,4 +1,4 @@
-# Guía de Contribución a Sena Attendance
+# Guía de Contribución a BOG-BOOST
 
 ¡Gracias por tu interés en contribuir! Este documento describe el proceso y las convenciones que seguimos para mantener un flujo de trabajo ordenado y colaborativo.
 
@@ -6,7 +6,7 @@
 
 ## Índice
 
-- [Guía de Contribución a Sena Attendance](#guía-de-contribución-a-sena-attendance)
+- [Guía de Contribución a BOG-BOOST](#guía-de-contribución-a-sena-attendance)
   - [Índice](#índice)
   - [Convenciones de Commits](#convenciones-de-commits)
     - [Ejemplo](#ejemplo)
@@ -18,7 +18,7 @@
 
 ## Convenciones de Commits
 
-Utilizamos una convención basada en [Conventional Commits](https://www.conventionalcommits.org/es/v1.0.0/), adaptada para Sena Attendance.  
+Utilizamos una convención basada en [Conventional Commits](https://www.conventionalcommits.org/es/v1.0.0/), adaptada para BOG-BOOST.  
 La estructura del mensaje es:
 
 ```text
